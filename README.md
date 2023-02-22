@@ -1,6 +1,6 @@
-# body_mass_index_calculator
+# Body Mass Index Calculator
 
-A new Flutter project.
+
 
 ## Getting Started
 
